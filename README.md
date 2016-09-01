@@ -1,6 +1,7 @@
-- Clone 
-- Serve the files either using ftp or http
-Create a new repo file like the exemple bellow 
+### Steps
+1. first git clone this repo 
+2. Serve the files either using ftp or http
+3. Create a new repo file like the exemple bellow 
 ```
 [icinga2ami]
 name=Icinga2 AMI 2016.03
